@@ -1,0 +1,25 @@
+.full{
+	width:600px;
+	background-color: #e3e3e3;
+	margin:auto;
+}
+.line{
+	list-style: none;
+
+}
+.block{
+	height:125px;
+	width:125px;
+	background-color: #ced138;
+	display: inline-block;
+	margin:2.5px;
+}
+.number{
+	text-align:center;
+	vertical-align: middle;
+	line-height: 100px;
+}
+body{
+	font-size:20px;
+	font-family:"Verdana";
+}
